@@ -3,8 +3,9 @@
 </div>
 
 <div align="center" style="margin: 20px 0px 5px">
-    <a style="margin-right: 10px" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjeeki&count_bg=%23CCE3FF&title_bg=%236B99FF&icon=&icon_color=%23DFDFDF&title=hits&edge_flat=false"/></a>
-    <!-- <a href="./korean_readme.md">Korean</a> -->
+  <a style="margin-right: 10px" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjeeki&count_bg=%23CCE3FF&title_bg=%236B99FF&icon=&icon_color=%23DFDFDF&title=hits&edge_flat=false"/></a>
+  <a href="./korean_readme.md"><img src="https://img.shields.io/badge/korean_profile-orange?style=flat&logoColor=white"/></a>
+
 </div>
 
 <!-- about me - 이름, 되고 싶은 모습, 최근 하고 있는 일들 -->
@@ -22,11 +23,14 @@
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
 
 <!-- more about me - skills, qualification, trainings, projects & studies, contact -->
-<!--
+
 <div class="body" align="left">
 
 <h3 align="center">🛠 Skills 🛠</h3>
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjeeki&layout=compact&theme=tokyonight" alt="Top Langs"/>
+
+<!--
  <table>
    <tr>
     <td align="center">
@@ -61,13 +65,13 @@
 <h3 align="center">Qualifications</h3>
 -->
 
-<h3 align="center">Trainings</h3>
+<h3 align="center">🌱Trainings🌱</h3>
 
 * [multi-campus KDT 2nd Python Full-Stack Developer Course (2022.12 ~ 2023.05)](https://github.com/nninzy/KDT_2nd_practice)
 
 * [42Seoul 10th (2023.08 ~ )](https://github.com/minjeeki/42seoul)
 
-<h3 align="center">Projects & Studies</h3>
+<h3 align="center">❤️Projects & Studies❤️</h3>
 
 <h4>Personal Projects</h4>
 
