@@ -14,7 +14,7 @@
 <li>🔭 Currently studying at 42Seoul.</li>
 <li>🌱 Learning Web Full Stack developing.</li>
 <li>😄 Hope to create services that bring joy to people’s everyday.</li>
-<li>👯 Value ‘consistency’ and ‘rscords’, strive to maintain them.</li>
+<li>👯 Value ‘consistency’ and ‘records’, strive to maintain them.</li>
 
 </ul>
 
