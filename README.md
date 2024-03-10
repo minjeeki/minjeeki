@@ -93,7 +93,7 @@
 
 <!-- about my github - 어떻게 활용하고 있는지에 대한 설명 & github stat과 백준 stat -->
 
-![minjeeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeeki&show_icons=true&theme=radical)
+[![minjeeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeeki&show_icons=true&theme=radical)]()
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devnninzy)](https://solved.ac/devnninzy/)
 
