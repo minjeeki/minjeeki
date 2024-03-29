@@ -67,9 +67,9 @@
 
 <h3 align="center">🌱Trainings🌱</h3>
 
-* [multi-campus KDT 2nd Python Full-Stack Developer Course (2022.12 ~ 2023.05)](https://github.com/nninzy/KDT_2nd_practice)
+* [multi-campus KDT 2nd Python Full-Stack Developer Course (2022.12 ~ 2023.05)](https://github.com/nninzy/KDT_2nd_practice) : Python, Django, JavaScript
 
-* [42Seoul 10th (2023.08 ~ )](https://github.com/minjeeki/42seoul)
+* [42Seoul 10th (2023.08 ~ )](https://github.com/minjeeki/42seoul) : C, Linux, 
 
 <h3 align="center">❤️Projects & Studies❤️</h3>
 
