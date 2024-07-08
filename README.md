@@ -12,7 +12,7 @@
 
 <ul class="current_summary" style="padding: 10px 10%">
 
-<li>🔭 Currently studying at 42Seoul.</li>
+<li>🔭 Currently studying at SSAFY.</li>
 <li>🌱 Learning Web Full Stack developing.</li>
 <li>😄 Hope to create services that bring joy to people’s everyday.</li>
 <li>👯 Value ‘consistency’ and ‘records’, strive to maintain them.</li>
