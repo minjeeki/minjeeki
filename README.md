@@ -67,9 +67,13 @@
 
 <h3 align="center">🌱Trainings🌱</h3>
 
-* [multi-campus KDT 2nd Python Full-Stack Developer Course (2022.12 ~ 2023.05)](https://github.com/nninzy/KDT_2nd_practice) : Python, Django, JavaScript
+* [multi-campus KDT 2nd Python Full-Stack Developer Course (2022.12 ~ 2023.05)](https://github.com/nninzy/KDT_2nd_practice)
 
-* [42Seoul 10th (2023.08 ~ )](https://github.com/minjeeki/42seoul) : C, Linux, 
+  : 웹 개발 전반적인 과정 및 개발자 진로 선택 후 필요한 요소 맛보기 학습 (Learn about Python, Django, JavaScript)
+
+* [42Seoul 10th (2023.08 ~ 2024.05)](https://github.com/minjeeki/42seoul)
+
+  : 컴퓨터 구조 및 운영체제 등 기본기를 채우기 위한 학습 (Learn about C, Linux)
 
 <h3 align="center">❤️Projects & Studies❤️</h3>
 
