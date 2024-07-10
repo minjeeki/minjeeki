@@ -8,7 +8,7 @@
 
 </div>
 
-<!-- about me - 이름, 되고 싶은 모습, 최근 하고 있는 일들 -->
+<!-- about me - 이름, 되고 싶은 모습, 최근 하고 있는 일들
 
 <ul class="current_summary" style="padding: 10px 10%">
 
@@ -30,7 +30,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjeeki&layout=compact&theme=tokyonight" alt="Top Langs"/>
 
-<!--
  <table>
    <tr>
     <td align="center">
