@@ -22,7 +22,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
 
-<!-- more about me - skills, qualification, trainings, projects & studies, contact -->
+more about me - skills, qualification, trainings, projects & studies, contact
 
 <div class="body" align="left">
 
