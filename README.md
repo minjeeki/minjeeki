@@ -67,7 +67,7 @@
 
 <h3 align="center">🌱Trainings🌱</h3>
 
-* [multi-campus KDT 2nd Python Full-Stack Developer Course (2022.12 ~ 2023.05)](https://github.com/nninzy/KDT_2nd_practice)
+* [multi-campus KDT 2nd Python Full-Stack Developer Course (2023.01 ~ 2023.05)](https://github.com/nninzy/KDT_2nd_practice)
 
   : 웹 개발 전반적인 과정 및 개발자 진로 선택 후 필요한 요소 맛보기 학습 (Learn about Python, Django, JavaScript)
 
