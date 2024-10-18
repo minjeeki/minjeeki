@@ -6,7 +6,7 @@
   <a style="margin-right: 10px" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjeeki&count_bg=%23CCE3FF&title_bg=%236B99FF&icon=&icon_color=%23DFDFDF&title=hits&edge_flat=false"/></a>
 </div>
 <br>
-<!-- about me - 이름, 되고 싶은 모습, 최근 하고 있는 일들 -->
+about me - 이름, 되고 싶은 모습, 최근 하고 있는 일들
 
 <ul class="current_summary" style="padding: 10px 10%">
     <li>🌱 '함께 오래 일할 수 있는 개발자'가 되기 위해 노력하고 있습니다.</li>
@@ -16,7 +16,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
 
-<!-- more about me - skills, qualification, trainings, projects & studies, contact -->
+more about me - skills, qualification, trainings, projects & studies, contact
 
 <div class="body" align="left">
 
@@ -40,7 +40,7 @@
    </tr>
  </table>
 
-<!-- <h3 align="center">Qualifications</h3> -->
+<h3 align="center">Qualifications</h3>
 
 <h3 align="center">🌱Trainings🌱</h3>
 
@@ -76,7 +76,7 @@
 
 </div>
 
-<!-- about my github - 어떻게 활용하고 있는지에 대한 설명 & github stat과 백준 stat
+about my github - 어떻게 활용하고 있는지에 대한 설명 & github stat과 백준 stat
 
 ![minjeeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeeki&show_icons=true&theme=radical)
 
