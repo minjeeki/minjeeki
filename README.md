@@ -1,4 +1,4 @@
-<div class="header" align="ceter">
+<!-- <div class="header" align="ceter">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hi,%20I'm%20minjee&desc=who%20wants%20to%20blend%20into%20the%20world%20in%20various%20forms&fontAlignY=40&descAlignY=75&reversal=false" />
 </div>
 <br>
