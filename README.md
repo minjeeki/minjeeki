@@ -1,19 +1,7 @@
 <div class="header" align="ceter">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hi,%20I'm%20minjee&desc=.&fontAlignY=40&descAlignY=75&reversal=false" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hi,%20I'm%20minjee&desc=🌱&fontAlignY=40&descAlignY=75&reversal=false" />
 </div>
 <br>
-<div align="center" style="margin: 20px 0px 5px">
-  <a style="margin-right: 10px" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjeeki&count_bg=%23CCE3FF&title_bg=%236B99FF&icon=&icon_color=%23DFDFDF&title=hits&edge_flat=false"/></a>
-</div>
-<br>
-<!-- 
-about me - 이름, 되고 싶은 모습, 최근 하고 있는 일들
-<ul class="current_summary" style="padding: 10px 10%">
-    <li>🌱 '함께 오래 일할 수 있는 개발자'가 되기 위해 노력하고 있습니다.</li>
-    <li>😄 사람들의 일상의 즐거움과 편리함을 더해줄 수 있는 서비스를 개발하고 싶습니다. </li>
-    <li>👯 '꾸준함'과 '기록'을 중요 가치로 생각하고, 이를 갖추기 위해 힘쓰고 있습니다. </li>
-</ul>
--->
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
 
@@ -29,6 +17,7 @@ about me - 이름, 되고 싶은 모습, 최근 하고 있는 일들
           <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
           <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
           <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         </div>
         <div class="programming_language">
           <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -38,6 +27,12 @@ about me - 이름, 되고 싶은 모습, 최근 하고 있는 일들
         <div class="library_framework">
           <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+          <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+        </div>
+        <div>
+          <img src="https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+          <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
         </div>
     </td>
     <td>
@@ -46,38 +41,49 @@ about me - 이름, 되고 싶은 모습, 최근 하고 있는 일들
    </tr>
  </table>
 
-<!-- 
-<h3 align="center">Qualifications</h3>
+<h3 align="center">Awards & Qualifications</h3>
 
-* SQLD
-
--->
+ <table>
+   <tr>
+    <td>
+        <div>
+            <p>🏅 삼성청년 SW 아카데미 12기 특화 프로젝트 우수 (2025.05)</p>
+            <p>🏅 삼성청년 SW 아카데미 12기 1학기 성적 우수 (2024.11)</p>
+            <p>🏅 삼성 SW 모의 역량테스트 A+ (2024.11)</p>
+        </div>
+    </td>
+    <td>
+       <p>📜 SQLD (한국데이터산업진흥원 / 2024.09)</p>
+       <p>📜 OPIC IM3 (멀티캠퍼스 / 2024.09)</p>
+       <p>📜 PCCE Lv3 파이썬 (그렙 / 2023.02)</p>
+    </td>
+   </tr>
+ </table>
 
 <h3 align="center">🌱Trainings🌱</h3>
 
-* 42Seoul 10th (2023.07 ~ 2024.06)
+* 42Seoul 10th (2023.07 ~ 2024.06, SSAFY 입과를 위해 중도 퇴소)
 
-* SSAFY 12th (2024.07 ~ )
+* SSAFY 12th (2024.07 ~ 2025.06)
 
-<h3 align="center">❤️Projects & Studies❤️</h3>
+* 오픈소스 컨트리뷰션 아카데미 2024 체험형 2차 (2024.09 ~ 2024.10)
 
-<h4>Personal Projects</h4>
+<h3 align="center">❤️Projects❤️</h3>
 
-* [KakaoTalk Clone Coding - HTML, CSS](https://nninzy.github.io/KakaoTalk-clone/)
+<!-- <h4>🚀 Team Projects 🚀</h4>
 
-* [Daangn-Market Clone Coding - HTML, CSS, JavaScript](https://nninzy.github.io/daangn-clone/)
+* 
 
-* [Crazy Todo Archive - HTML, CSS, JavaScript](https://nninzy.github.io/crazy_archive/)
+-->
 
-<h4>Group Study</h4>
+<h4 align="center">🌟 Open Source Contributions 🌟</h4>
 
-* [Book 'Modern JavaScript Deep Dive' Study](https://github.com/nninzy/deepRun)
+* Continue - AI Code Assistant
 
-<!-- * [Computer Science Study (2023.08 ~ 2024.02)](https://min-z.notion.site/CS-2023-08-2024-02-292051f0b34c41bb9d0f8080ae99cab8?pvs=4) -->
+  - Autocomplete 문서 개선 작업 관련 PR 2건 기여
+  - Autocomplete 단축키가 코드로는 구현되어 있으나 문서에는 누락된 문제를 발견. 공식 문서 및 VSCode 단축키 가이드 개선 작업 진행
+  - 기여 PR 링크 : [Documentation Update](https://github.com/continuedev/continue/pull/2568), [Keyboard Shortcut Guide](https://github.com/continuedev/continue/pull/2571)
 
-* [Algorithm & CS Study (2024.07 ~ )](https://github.com/red-sprout/SSAFY_12th_study)
-
-* [Database Study (2024.07 ~ )](https://github.com/MarkSon-42/TeamStudy-Database)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient)
 
