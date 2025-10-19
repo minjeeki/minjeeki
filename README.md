@@ -75,7 +75,7 @@
 
 -->
 
-<h4 align="center">🌟 Open Source Contributions 🌟</h4>
+<h4>🌟 Open Source Contributions 🌟</h4>
 
 * Continue - AI Code Assistant
 
